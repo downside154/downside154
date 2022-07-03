@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=250&text=downside154&fontAlign=74&fontAlignY=40&color=gradient)
+![header](https://capsule-render.vercel.app/api?type=waving&height=250&text=downside154&fontAlign=74&fontAlignY=50&color=gradient)
 
 
 ## 👋 Hi there!
@@ -6,18 +6,17 @@ I’m Backend Developer working in Seoul, South Korea.
 <br />
 
 ## 🔧 Skill Set
-Frontend : <img src="https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> 
+Frontend : <img src="https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">
 <br />
 <!-- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/nextjs-lightyellow?style=for-the-badge&logo=next.js&logoColor=black">--> 
-Backend : <img src="https://img.shields.io/badge/Python-5C0D34?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> 
-DB : <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/SQLite-red?style=for-the-badge&logo=sqlite&logoColor=white"> <br />
+Backend : <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> <br />
+DB :  <img src="https://img.shields.io/badge/SQLite-red?style=for-the-badge&logo=sqlite&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"> <br />
 Cloud :     <img src="https://img.shields.io/badge/AWS(S3/EC2/RDS)-FF9900?style=for-the-badge&logo=Amazon&logoColor=white"> <br />
 Other :     <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/nginx-darkgreen?style=for-the-badge&logo=nginx&logoColor=white"> <img src="https://img.shields.io/badge/Selenium-5C2D91?style=for-the-badge&logo=selenium&logoColor=white"> <br />
 
 ## 🛠️ Framework
-<img src="https://img.shields.io/badge/Spring%20Boot-green?style=for-the-badge&logo=springboot&logoColor=white">
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/Django%20REST%20Framework-red?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/fastapi-blue?style=for-the-badge&logo=fastapi&logoColor=white">  <br />
+<img src="https://img.shields.io/badge/Spring%20Boot-green?style=for-the-badge&logo=springboot&logoColor=white"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/Django%20REST%20Framework-red?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/fastapi-blue?style=for-the-badge&logo=fastapi&logoColor=white"> <br />
 
 ## 🌱 Learning & Interests
 Kubernetes, Celery (Python), Algorithms, Load Balancing and server stress testing
