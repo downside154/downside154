@@ -22,8 +22,8 @@ Other :     <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-bad
 Kubernetes, Celery (Python), Algorithms, Load Balancing and server stress testing
 
 ## 👀 Where to find me
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dojunkim@gmail.com)](mailto:dojunkim@gmail.com)<br>
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:dojunkim@gmail.com)](mailto:dojunkim@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dojun-kim-756a9215b/)
 
 ## 📈 Github Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=downside154&&show_icons=true&theme=nightowl)
