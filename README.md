@@ -22,7 +22,7 @@ Other :     <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-bad
 Kubernetes, Celery (Python), Algorithms, Load Balancing and server stress testing
 
 ## 👀 Where to find me
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dojunkim@gmail.com)](mailto:dojunkim@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dojunkim@gmail.com)](mailto:dojunkim@gmail.com)<br>
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ## 📈 Github Stats
