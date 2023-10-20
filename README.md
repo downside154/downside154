@@ -8,13 +8,16 @@ I’m Backend Developer working in Seoul, South Korea.
 ----------------
 
 ## 🔧 Skill Set
-#### Frontend : 
+<br />
+
+
+#### Frontend
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Nextjs-lightyellow?style=for-the-badge&logo=next.js&logoColor=black"> 
 <br />
 
 ----------------
 
-#### Backend : 
+#### Backend
 
 **Python:**
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
@@ -26,19 +29,19 @@ I’m Backend Developer working in Seoul, South Korea.
 
 ----------------
 
-#### DB :  
+#### DB
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=black"> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 <br />
 
 ----------------
 
-#### Cloud :
+#### Cloud
 <img src="https://img.shields.io/badge/AWS(S3/EC2/RDS/ELB/EKS/Elasticache)-FF9900?style=for-the-badge&logo=Amazon&logoColor=white">  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white">  
 <br />
 
 ----------------
 
-#### Misc :
+#### Misc
 <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/nginx-darkgreen?style=for-the-badge&logo=nginx&logoColor=white"> <img src="https://img.shields.io/badge/Selenium-5C2D91?style=for-the-badge&logo=selenium&logoColor=white"> 
 <br />
 
