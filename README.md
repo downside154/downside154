@@ -5,15 +5,20 @@
 I’m Backend Developer working in Seoul, South Korea.
 <br />
 
+----------------
+
 ## 🔧 Skill Set
 #### Frontend : 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Nextjs-lightyellow?style=for-the-badge&logo=next.js&logoColor=black"> 
 <br />
 
 #### Backend : 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
 
+### Python:
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
 <br />
+
+### Java:
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"> 
 <br />
 
@@ -28,6 +33,8 @@ I’m Backend Developer working in Seoul, South Korea.
 #### Misc :
 <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/nginx-darkgreen?style=for-the-badge&logo=nginx&logoColor=white"> <img src="https://img.shields.io/badge/Selenium-5C2D91?style=for-the-badge&logo=selenium&logoColor=white"> 
 <br />
+
+----------------
 
 
 ## 🌱 Currently Learning 
