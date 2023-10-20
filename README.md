@@ -6,8 +6,13 @@ I’m Backend Developer working in Seoul, South Korea.
 <br />
 
 ## 🔧 Skill Set
-Frontend : <img src="https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/nextjs-lightyellow?style=for-the-badge&logo=next.js&logoColor=black"> <br />
+### Frontend : 
+<-- <img src="https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html5&logoColor=white"> 
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white"> -->
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/nextjs-lightyellow?style=for-the-badge&logo=next.js&logoColor=black"> <br />
 Backend : <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> <br />
 DB :  <img src="https://img.shields.io/badge/SQLite-red?style=for-the-badge&logo=sqlite&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"> <br />
 Cloud :     <img src="https://img.shields.io/badge/AWS(S3/EC2/RDS/ELB/)-FF9900?style=for-the-badge&logo=Amazon&logoColor=white"> <img src="https://img.shields.io/badge/ElastiCache-FF9900?style=for-the-badge&logo=Amazon&logoColor=white"> <img src="https://img.shields.io/badge/ElasticSearch-FF9900?style=for-the-badge&logo=Amazon&logoColor=white">  <br />
