@@ -7,7 +7,7 @@ I’m Backend Developer working in Seoul, South Korea.
 
 ----------------
 
-## 🔧 Skill Set
+<!-- ## 🔧 Skill Set
 <br />
 
 
@@ -46,6 +46,7 @@ I’m Backend Developer working in Seoul, South Korea.
 <br />
 
 ----------------
+-->
 
 ## 🌱 Currently Learning 
 MSA, Kubernetes, Serverless Architecture, Sorting Algorithms
