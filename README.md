@@ -50,11 +50,3 @@ I’m Backend Developer working in Seoul, South Korea.
 
 ## 🌱 Currently Learning 
 MSA, Kubernetes, Serverless Architecture, Sorting Algorithms
-
-## 👀 Where to find me
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:dojunkim@gmail.com)](mailto:dojunkim@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dojun-kim-756a9215b/)
-
-## 📈 Github Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=downside154&&show_icons=true&theme=nightowl) <br />
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdownside154&count_bg=%23014DC2&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
